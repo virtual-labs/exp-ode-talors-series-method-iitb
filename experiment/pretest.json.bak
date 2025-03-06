@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The Taylor's series expansion is",
+        "qid": 1,
+        "option_a": "<span style='display:inline-block'>$$ y = y_0+(x-x_0)y'_0+\\frac{(x-x_0)^2}{2!}y''_0 $$</span>",
+        "option_b": "<span style='display:inline-block'>$$ y = y_0-(x-x_0)y'_0-\\frac{(x-x_0)^2}{2!}y''_0 $$</span>",
+        "option_c": "<span style='display:inline-block'>$$ y = y_0+\\frac{(x-x_0)^2}{2!}y''_0 $$</span>",
+        "option_d": "<span style='display:inline-block'>$$ y = y_0+(x-x_0)y'_0-y''_0 $$</span>",
+        "correct_option": "a"
+    },
+    {
+        "question": "The error estimated in Taylor's series method <br> h = x - x<sub>i</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 &lt; &theta; &lt; 1",
+        "qid": 2,
+        "option_a": "<span style='display:inline-block'>$$ E_n = \\frac{h^{(n-1)}}{(n-1)!} f^{(n-1)} (\\theta h) $$</span>",
+        "option_b": "<span style='display:inline-block'>$$ E_n = \\frac{h^{(n+1)}}{(n)!} f^{(n+1)} (xi + h) $$</span>",
+        "option_c": "<span style='display:inline-block'>$$ E_n = \\frac{h}{(n+1)!} f^{(n-1)} (xi + \\theta h) $$</span>",
+        "option_d": "<span style='display:inline-block'>$$ E_n = \\frac{h^{(n+1)}}{(n+1)!} f^{(n+1)} (xi + \\theta h) $$</span>",
+        "correct_option": "d"
+    }
+]
